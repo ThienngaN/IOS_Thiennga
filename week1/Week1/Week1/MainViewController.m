@@ -11,6 +11,7 @@
 @interface MainViewController ()
 
 
+@property (weak, nonatomic) IBOutlet UIView *profileView;
 
 @property (weak, nonatomic) IBOutlet UIView *commentImageView;
 @property (weak, nonatomic) IBOutlet UIButton *buttonLike;
@@ -46,6 +47,7 @@
 {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
+    self.profileView.layer.cornerRadius = 5;
 }
 
 - (void)didReceiveMemoryWarning
