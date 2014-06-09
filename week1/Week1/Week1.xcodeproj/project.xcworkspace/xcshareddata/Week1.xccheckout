@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A9BF9DBD-D671-4652-992F-574FD23B2744</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Week1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68D3B649-C511-4437-99AD-B2DB4CF93C8A</key>
+		<string>https://github.com/ThienngaN/IOS_Thiennga.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>week1/Week1/Week1.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68D3B649-C511-4437-99AD-B2DB4CF93C8A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ThienngaN/IOS_Thiennga.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68D3B649-C511-4437-99AD-B2DB4CF93C8A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68D3B649-C511-4437-99AD-B2DB4CF93C8A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS_Thiennga</string>
+		</dict>
+	</array>
+</dict>
+</plist>
